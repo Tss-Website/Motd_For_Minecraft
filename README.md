@@ -26,4 +26,4 @@ max|9999|服务器人数上限
 gamemode|Survival|游戏模式
 delay|64|连接服务器延迟(ms)
 
-示例：https://motd.tsfk.top/api.php?ip=mc.52craft.cc&port=2020
+示例：https://motd.tsfk.top/api.php?ip=play.lbsg.net&port=19132
